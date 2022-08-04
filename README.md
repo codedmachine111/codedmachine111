@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @codedmachine111
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning  programming.
-- 💞️ I’m looking to collaborate on frontend work that includes HTML,CSS and Javascript.
-- 📫 You can contact me via email @charlesbabbage1709@gmail.com
-- Look at my Portfolio <a href="https://codedmachine111.github.io">HERE</a>
-
-
+<h1>Hey! I'm Akash.</h1>
+<p>A tech enthusiast pursuing a bachelors degree and learning to develop new things, work with new frameworks and technologies. I am a Data Science enthusiast and a Front-end Web developer looking forward to go fullstack. </p>
