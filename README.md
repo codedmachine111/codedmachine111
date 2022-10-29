@@ -12,6 +12,8 @@
 |![](https://img.shields.io/badge/-arduino-black?logo=arduino&style=for-the-badge)|![](https://img.shields.io/badge/-sass-black?logo=sass&style=for-the-badge)|![](https://img.shields.io/badge/-npm-black?logo=npm&style=for-the-badge)|![](https://img.shields.io/badge/-firebase-black?logo=firebase&style=for-the-badge)|![](https://img.shields.io/badge/-c-black?logo=c&style=for-the-badge)|
 
 <hr>
+<img src="https://holopin.me/codedmachine" width=600></img>
+<hr>
 <h1>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=codedmachine111&show_icons=true&theme=gruvbox" width=600></img>
 
