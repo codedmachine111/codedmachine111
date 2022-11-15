@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Akash Nayak.</h1>
-<p>A tech enthusiast pursuing a bachelors degree and learning to develop new things, work with new frameworks and technologies. I am a Front-end Web developer looking forward to go fullstack and a Machine Learning enthusiast.</p>
-<p>I am currently learning Reactjs by building random projects, and practicing Data Structures and Algorithms in JAVA.</p>
+<p>A tech enthusiast, pursuing Bachelor's degree in Electronics and Communications at KLE Technological University, Hubli. I build websites using Reactjs and practice Data Structures and Algorithms using Java. I am curious to explore other tech fields like Artificial Intelligence (AI), and DevOps, Fullstack MERN development.</p>
+<p>I learn fast and grasp quickly to new technologies and frameworks. I am available to work on new technologies.</p>
 <hr>
 <h1 align="left">Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h1>
 
