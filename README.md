@@ -16,8 +16,6 @@
 <hr>
 <h1>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=codedmachine111&show_icons=true&theme=gruvbox" width=600></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedmachine111&theme=gruvbox"" width=300></img>
-
 
 <hr>
 <h1>Connect with me 🔗</h1>
