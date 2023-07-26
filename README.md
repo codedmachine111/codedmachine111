@@ -35,10 +35,6 @@
 <hr>
 <img src="https://holopin.me/codedmachine" width=100%></img>
 <hr>
-<h2>Github stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=50 height=50 align="center"></img></h2>
-<img src="https://github-readme-stats.vercel.app/api?username=codedmachine111&show_icons=true&theme=gruvbox" width=600></img>
-
-<hr>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedmachine111&repo=pixtory-client)](https://github.com/codedmachine111/pixtory-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedmachine111&repo=musify)](https://github.com/codedmachine111/musify)
