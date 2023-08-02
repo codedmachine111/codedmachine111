@@ -45,8 +45,8 @@
 <h2>Connect with me 🔗</h2>
 <div>
 
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/whoisakashh)
+<a href="https://twitter.com/whoisakashh"><img src="https://www.svgrepo.com/show/475689/twitter-color.svg" height="40px">&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/akash-nayak-48210624b/"><img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" height="40px">&nbsp;&nbsp;&nbsp;</a>
+<a href="mailto:akashnayak.ubl@gmail.com"><img src="https://www.svgrepo.com/show/349378/gmail.svg" height="40px">&nbsp;&nbsp;&nbsp;</a>
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesbabbage1709@gmail.com)
-  
 </div>
