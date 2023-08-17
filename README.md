@@ -37,8 +37,8 @@
 <img src="https://holopin.me/codedmachine" width=100%></img>
 <hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedmachine111&repo=coincontrol-client)](https://github.com/codedmachine111/coincontrol-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedmachine111&repo=musify)](https://github.com/codedmachine111/musify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedmachine111&repo=coincontrol-client)](https://github.com/codedmachine111/coincontrol-client)
 
 
 <hr>
