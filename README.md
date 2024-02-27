@@ -7,6 +7,7 @@
 
 <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
