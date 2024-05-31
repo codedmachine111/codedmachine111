@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Akash Nayak.</h1>
-<p>A tech enthusiast, pursuing Bachelor's degree in Electronics and Communications at KLE Technological University, Hubli. I build websites using React and Node.js. I am currently exploring, Deep Learning, and WebML. I'm enthusiastic about other tech domains like Web3 and Blockchain development.</p>
-<p>I learn fast and grasp quickly to new technologies and frameworks. I am available to work on new technologies. I am excited to continue growing and contributing my skills to a challenging and dynamic environment.</p>
+<p>A tech enthusiast, pursuing a Bachelor's degree in Electronics and Communications.</p>
+<p>I learn fast and grasp quickly to new technologies and frameworks. I am excited to continue growing and contributing my skills to a challenging and dynamic environment.</p>
 <hr>
 <h2 align="left">Programming <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h2>
 
