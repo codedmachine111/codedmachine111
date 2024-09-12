@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I'm Akash Nayak.</h1>
-<p>A tech enthusiast, pursuing a Bachelor's degree in Electronics and Communications.</p>
-<p>I learn fast and grasp quickly to new technologies and frameworks. I am excited to continue growing and contributing my skills to a challenging and dynamic environment.</p>
+<p>I write code sometimes.</p>
 <hr>
 <h2 align="left">Programming <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h2>
 
