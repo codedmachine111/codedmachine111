@@ -1,1 +1,1 @@
-### Hey! I'm Akash, and I code sometimes.
+### Hey! I'm Akash, and I code.
